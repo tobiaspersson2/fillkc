@@ -1,0 +1,38 @@
+0000000000000000000000000000000000000000 dbdfccc0b427b0e9d882ccfc87246c386978298e Tobias Persson <tobias.persson2@SE-C02LK2EHF6T6.(none)> 1463147621 +0200	clone: from ssh://5735da8b0c1e66f813000109@fillkco-tobiaspersson2.rhcloud.com/~/git/fillkco.git/
+dbdfccc0b427b0e9d882ccfc87246c386978298e 807a07b79bda07e4f48e196e9ad61b95893e9f62 Tobias Persson <tobias.persson2@klarna.com> 1463149520 +0200	commit: changed
+807a07b79bda07e4f48e196e9ad61b95893e9f62 9ddc06abf4b40a4f3977bcee6a8535c661ac2d9a Tobias Persson <tobias.persson2@klarna.com> 1463149838 +0200	commit: changed
+9ddc06abf4b40a4f3977bcee6a8535c661ac2d9a 30185b0edffff4ba1a6366731e36c78a28aea471 Tobias Persson <tobias.persson2@klarna.com> 1463150218 +0200	commit: changed
+30185b0edffff4ba1a6366731e36c78a28aea471 37982fe26141b92a9ee3b4b3d0f396810472f82d Tobias Persson <tobias.persson2@klarna.com> 1463152724 +0200	commit: update node modules
+37982fe26141b92a9ee3b4b3d0f396810472f82d 9f53b407cd0230ab4ddb8b4c0798c8f36a354237 Tobias Persson <tobias.persson2@klarna.com> 1463153614 +0200	commit: update node modules
+9f53b407cd0230ab4ddb8b4c0798c8f36a354237 76ac95d0f6b42911c1aa6fac9a51b25d5126b379 Tobias Persson <tobias.persson2@klarna.com> 1463155406 +0200	commit: remove strict
+76ac95d0f6b42911c1aa6fac9a51b25d5126b379 7a47b6285636ba1328923c8b9377578b932cf5f3 Tobias Persson <tobias.persson2@klarna.com> 1463156391 +0200	commit: remove strict
+7a47b6285636ba1328923c8b9377578b932cf5f3 75699cf0d08b020e9f0272e81a82ca0ba24f21d3 Tobias Persson <tobias.persson2@klarna.com> 1463156676 +0200	commit: remove strict
+75699cf0d08b020e9f0272e81a82ca0ba24f21d3 df659d4092bcbd93a7881109bfb4c36b46ab7c18 Tobias Persson <tobias.persson2@klarna.com> 1463156937 +0200	commit: remove strict
+df659d4092bcbd93a7881109bfb4c36b46ab7c18 279fabaf44f75936ff2ab3a1c5673390254e5112 Tobias Persson <tobias.persson2@klarna.com> 1463157338 +0200	commit: remove strict
+279fabaf44f75936ff2ab3a1c5673390254e5112 b02d40e0543eb355ef40c3766816d6cf2ed3b73c Tobias Persson <tobias.persson2@klarna.com> 1463159731 +0200	commit: remove strict
+b02d40e0543eb355ef40c3766816d6cf2ed3b73c 369915a98e645fc9a23fc3cd3f20fb2a33cc15c3 Tobias Persson <tobias.persson2@klarna.com> 1463342836 +0200	commit: server start
+369915a98e645fc9a23fc3cd3f20fb2a33cc15c3 9ee37a051c8699ad579b23519623d6d23e5c17f2 Tobias Persson <tobias.persson2@klarna.com> 1463343669 +0200	commit: server start
+9ee37a051c8699ad579b23519623d6d23e5c17f2 0b2d49dd7c966bc61c7ed9b7c5755bc8e724a2f5 Tobias Persson <tobias.persson2@klarna.com> 1463343887 +0200	commit: server start
+0b2d49dd7c966bc61c7ed9b7c5755bc8e724a2f5 95eac21dff052915a15619c0fcc5798c5de29cd9 Tobias Persson <tobias.persson2@klarna.com> 1463344421 +0200	commit: package.json
+95eac21dff052915a15619c0fcc5798c5de29cd9 29e8c14c028535d32119b14874111433cd7e31a4 Tobias Persson <tobias.persson2@klarna.com> 1463390830 +0200	commit: t
+29e8c14c028535d32119b14874111433cd7e31a4 6682d753e99bfda4d51147d7758e23c56a044c17 Tobias Persson <tobias.persson2@klarna.com> 1463395447 +0200	commit: try fix babel.json
+6682d753e99bfda4d51147d7758e23c56a044c17 0696c2155dca22817bed2334e91be1e18eb3d753 Tobias Persson <tobias.persson2@klarna.com> 1463397122 +0200	commit: try fix babel.json
+0696c2155dca22817bed2334e91be1e18eb3d753 9e2153232c2dc2f5a7f0e1a8d84cf2c9cfcb94c7 Tobias Persson <tobias.persson2@klarna.com> 1463398184 +0200	commit: try fix babel.json
+9e2153232c2dc2f5a7f0e1a8d84cf2c9cfcb94c7 ec628bede3649da7bee2820102fa6dd70d54feb3 Tobias Persson <tobias.persson2@klarna.com> 1463506520 +0200	commit: add fillkco and sms endpoints
+ec628bede3649da7bee2820102fa6dd70d54feb3 ad8cd056eddd66dba00e6b210429a623445dfe25 Tobias Persson <tobias.persson2@klarna.com> 1464002410 +0200	commit: update client_update_order
+ad8cd056eddd66dba00e6b210429a623445dfe25 79b632e2f24d08f20c32e0f5615e4d4d99349b2c Tobias Persson <tobias.persson2@klarna.com> 1464070785 +0200	commit: splitpostback
+79b632e2f24d08f20c32e0f5615e4d4d99349b2c 2607e690322c8012a46073fc3be2f5af197ca514 Tobias Persson <tobias.persson2@klarna.com> 1464249936 +0200	commit: splitpostback
+2607e690322c8012a46073fc3be2f5af197ca514 1abad1e6a3c2af65cea7f816314693f8720d5403 Tobias Persson <tobias.persson2@klarna.com> 1464251411 +0200	commit: splitpostback
+1abad1e6a3c2af65cea7f816314693f8720d5403 6aa6c56f00e39c7fc5b5f593143c348f3c252f3f Tobias Persson <tobias.persson2@klarna.com> 1464252310 +0200	commit: splitpostback
+6aa6c56f00e39c7fc5b5f593143c348f3c252f3f 6d20d450a95011654050360c6be01cb5a5b7f4a5 Tobias Persson <tobias.persson2@klarna.com> 1464253882 +0200	commit: splitpostback
+6d20d450a95011654050360c6be01cb5a5b7f4a5 3738f3cbe83b667e5b685f3b6d26b5e614dab49c Tobias Persson <tobias.persson2@klarna.com> 1464253932 +0200	commit: splitpostback
+3738f3cbe83b667e5b685f3b6d26b5e614dab49c b630930a411b9f18d85154407526b5c8dacedda9 Tobias Persson <tobias.persson2@klarna.com> 1464254681 +0200	commit: added ?o parameter
+b630930a411b9f18d85154407526b5c8dacedda9 e0ad4cab70c239186cefa7f820ef59b6d0e19873 Tobias Persson <tobias.persson2@klarna.com> 1464261447 +0200	commit: added ?o parameter
+e0ad4cab70c239186cefa7f820ef59b6d0e19873 a88b615efec5bcad08d9018b5d8b71c0a2ac7d97 Tobias Persson <tobias.persson2@klarna.com> 1464262522 +0200	commit: added ?orderid parameter
+a88b615efec5bcad08d9018b5d8b71c0a2ac7d97 83089e239e7329d55018e992ff52a45326b4cee7 Tobias Persson <tobias.persson2@klarna.com> 1464268256 +0200	commit: fix
+83089e239e7329d55018e992ff52a45326b4cee7 79bbfb7a9a9dd69ad99f15624edf037078ef007d Tobias Persson <tobias.persson2@klarna.com> 1464280875 +0200	commit: remove json parse
+79bbfb7a9a9dd69ad99f15624edf037078ef007d d5f6688031758624d9f1e49ff83937db8aed6bd7 Tobias Persson <tobias.persson2@klarna.com> 1464598355 +0200	commit: add json stringify on request
+d5f6688031758624d9f1e49ff83937db8aed6bd7 d3d700c9d91b1d7d027547f04ba0a8890f3e5ae6 Tobias Persson <tobias.persson2@klarna.com> 1464694017 +0200	commit: denied_orderline
+d3d700c9d91b1d7d027547f04ba0a8890f3e5ae6 dfcd46ce6f348c8027c0bfd62f46545c56c2aa57 Tobias Persson <tobias.persson2@klarna.com> 1479373437 +0100	commit: add billing address
+dfcd46ce6f348c8027c0bfd62f46545c56c2aa57 cdf2d85fb7537234e725cbabcbf879f74d8bdbd9 Tobias Persson <tobias.persson2@klarna.com> 1479383568 +0100	commit: add billing2
+cdf2d85fb7537234e725cbabcbf879f74d8bdbd9 53b63ff273bf4200eb842336c1537470385a389b Tobias Persson <tobias.persson2@klarna.com> 1512739850 +0100	commit: first commit
